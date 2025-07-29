@@ -12,9 +12,9 @@ This project automates testing of the [ABN Lookup](https://abr.business.gov.au/)
 ## Prerequisites
 This is an example of how to list things you need to use the software and how to install them.
 
-1.**Install depemdencies:**
- ```bash
-npm install npm@latest -g 
+1.**Install dependencies:**
+  ```bash
+   npm install npm@latest -g 
   ```
 2. **Run tests:**
    ```bash
